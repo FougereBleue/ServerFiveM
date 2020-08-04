@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SSetupData>
+  <deviceName>dlc_kfbmods1</deviceName>
+  <datFile>content.xml</datFile>
+  <timeStamp>1/30/2017 17:30:01</timeStamp>
+  <nameHash>f82</nameHash>
+  <nameHash>f82st</nameHash>
+  <nameHash>f82duke</nameHash>
+  <nameHash>f824slw</nameHash>
+  <nameHash>f82lw</nameHash>
+  <nameHash>f82hs</nameHash>
+  <contentChangeSetGroups>
+    <Item>
+      <NameHash>GROUP_STARTUP</NameHash>
+      <ContentChangeSets>
+        <Item>kfbmods1_AUTOGEN</Item>	
+      </ContentChangeSets>
+    </Item>
+  </contentChangeSetGroups>
+  <type>EXTRACONTENT_COMPAT_PACK</type>
+  <order value="13" />  
+</SSetupData>

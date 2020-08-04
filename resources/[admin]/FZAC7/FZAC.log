@@ -1,0 +1,518 @@
+2020-07-19 01:17:43 | INFO: Starting...
+2020-07-19 01:18:16 | INFO: Loading config...
+2020-07-19 01:18:16 | INFO: Detecting server type (esx/vrp)...
+2020-07-19 01:18:16 | INFO: Detected server type: ESX
+2020-07-19 01:18:16 | INFO: Authorizing...
+2020-07-19 01:18:16 | INFO: 
+
+.______       _______  _______       _______.___________.  ______   .__   __.  __       ___      
+|   _  \     |   ____||       \     /       |           | /  __  \  |  \ |  | |  |     /   \     
+|  |_)  |    |  |__   |  .--.  |   |   (----`---|  |----`|  |  |  | |   \|  | |  |    /  ^  \    
+|      /     |   __|  |  |  |  |    \   \       |  |     |  |  |  | |  . `  | |  |   /  /_\  \   
+|  |\  \----.|  |____ |  '--'  |.----)   |      |  |     |  `--'  | |  |\   | |  |  /  _____  \  
+| _| `._____||_______||_______/ |_______/       |__|      \______/  |__| \__| |__| /__/     \__\ 
+                                                                                                 
+
+2020-07-19 01:18:16 | INFO: Authorized, welcome!
+2020-07-19 01:21:17 | INFO: Starting...
+2020-07-19 01:21:21 | INFO: Loading config...
+2020-07-19 01:21:22 | INFO: Detecting server type (esx/vrp)...
+2020-07-19 01:21:22 | INFO: Detected server type: ESX
+2020-07-19 01:21:22 | INFO: Authorizing...
+2020-07-19 01:21:22 | INFO: 
+
+.______       _______  _______       _______.___________.  ______   .__   __.  __       ___      
+|   _  \     |   ____||       \     /       |           | /  __  \  |  \ |  | |  |     /   \     
+|  |_)  |    |  |__   |  .--.  |   |   (----`---|  |----`|  |  |  | |   \|  | |  |    /  ^  \    
+|      /     |   __|  |  |  |  |    \   \       |  |     |  |  |  | |  . `  | |  |   /  /_\  \   
+|  |\  \----.|  |____ |  '--'  |.----)   |      |  |     |  `--'  | |  |\   | |  |  /  _____  \  
+| _| `._____||_______||_______/ |_______/       |__|      \______/  |__| \__| |__| /__/     \__\ 
+                                                                                                 
+
+2020-07-19 01:21:22 | INFO: Authorized, welcome!
+2020-07-19 01:22:44 | WARNING: Player Leon Hernez (steam:110000106322bc0) tried to use INSERT, the user got banned
+2020-07-19 01:22:44 | INFO: Target player is not null so moving on.
+2020-07-19 01:22:44 | INFO: Target player (Player) does not have the 'dont ban me' permission, so we can continue to ban them.
+2020-07-19 01:22:44 | INFO: Ban record created.
+2020-07-19 01:22:44 | INFO: Refreshing banned players list.
+[	19-07-2020 01:22:45	] [BAN ACTION] A new ban record has been added. Player: 'Leon Hernez' was banned by '' for '🔒FZAC7 : You are banned from this server' until '01/01/5000 00:00:00'.
+2020-07-19 01:22:45 | WARNING: Player  (steam:) tried to use INSERT, the user got banned
+2020-07-19 01:22:45 | INFO: Target player is not null so moving on.
+2020-07-19 01:22:45 | INFO: Target player (Player) does not have the 'dont ban me' permission, so we can continue to ban them.
+2020-07-19 01:22:45 | INFO: Ban record created.
+2020-07-19 01:22:45 | INFO: Refreshing banned players list.
+[	19-07-2020 01:22:45	] [BAN ACTION] A new ban record has been added. Player: 'InvalidPlayerName' was banned by '' for '🔒FZAC7 : You are banned from this server' until '01/01/5000 00:00:00'.
+2020-07-19 01:22:45 | WARNING: Player  (steam:) tried to use INSERT, the user got banned
+2020-07-19 01:22:45 | INFO: Target player is not null so moving on.
+2020-07-19 01:22:45 | INFO: Target player (Player) does not have the 'dont ban me' permission, so we can continue to ban them.
+2020-07-19 01:22:45 | INFO: Ban record created.
+2020-07-19 01:22:45 | INFO: Refreshing banned players list.
+[	19-07-2020 01:22:45	] [BAN ACTION] A new ban record has been added. Player: 'InvalidPlayerName' was banned by '' for '🔒FZAC7 : You are banned from this server' until '01/01/5000 00:00:00'.
+2020-07-19 01:22:45 | WARNING: Player  (steam:) tried to use INSERT, the user got banned
+2020-07-19 01:22:45 | INFO: Target player is not null so moving on.
+2020-07-19 01:22:45 | INFO: Target player (Player) does not have the 'dont ban me' permission, so we can continue to ban them.
+2020-07-19 01:22:45 | INFO: Ban record created.
+2020-07-19 01:22:45 | INFO: Refreshing banned players list.
+[	19-07-2020 01:22:45	] [BAN ACTION] A new ban record has been added. Player: 'InvalidPlayerName' was banned by '' for '🔒FZAC7 : You are banned from this server' until '01/01/5000 00:00:00'.
+2020-07-19 01:22:45 | WARNING: Player  (steam:) tried to use INSERT, the user got banned
+2020-07-19 01:22:45 | INFO: Target player is not null so moving on.
+2020-07-19 01:22:45 | INFO: Target player (Player) does not have the 'dont ban me' permission, so we can continue to ban them.
+2020-07-19 01:22:45 | INFO: Ban record created.
+2020-07-19 01:22:45 | INFO: Refreshing banned players list.
+[	19-07-2020 01:22:45	] [BAN ACTION] A new ban record has been added. Player: 'InvalidPlayerName' was banned by '' for '🔒FZAC7 : You are banned from this server' until '01/01/5000 00:00:00'.
+2020-07-19 01:22:45 | WARNING: Player  (steam:) tried to use INSERT, the user got banned
+2020-07-19 01:22:45 | INFO: Target player is not null so moving on.
+2020-07-19 01:22:45 | INFO: Target player (Player) does not have the 'dont ban me' permission, so we can continue to ban them.
+2020-07-19 01:22:45 | INFO: Ban record created.
+2020-07-19 01:22:45 | INFO: Refreshing banned players list.
+[	19-07-2020 01:22:45	] [BAN ACTION] A new ban record has been added. Player: 'InvalidPlayerName' was banned by '' for '🔒FZAC7 : You are banned from this server' until '01/01/5000 00:00:00'.
+2020-07-19 12:02:50 | INFO: Starting...
+2020-07-19 12:03:34 | INFO: Loading config...
+2020-07-19 12:03:34 | INFO: Detecting server type (esx/vrp)...
+2020-07-19 12:03:34 | INFO: Detected server type: ESX
+2020-07-19 12:03:34 | INFO: Authorizing...
+2020-07-19 12:03:34 | INFO: 
+
+.______       _______  _______       _______.___________.  ______   .__   __.  __       ___      
+|   _  \     |   ____||       \     /       |           | /  __  \  |  \ |  | |  |     /   \     
+|  |_)  |    |  |__   |  .--.  |   |   (----`---|  |----`|  |  |  | |   \|  | |  |    /  ^  \    
+|      /     |   __|  |  |  |  |    \   \       |  |     |  |  |  | |  . `  | |  |   /  /_\  \   
+|  |\  \----.|  |____ |  '--'  |.----)   |      |  |     |  `--'  | |  |\   | |  |  /  _____  \  
+| _| `._____||_______||_______/ |_______/       |__|      \______/  |__| \__| |__| /__/     \__\ 
+                                                                                                 
+
+2020-07-19 12:03:34 | INFO: Authorized, welcome!
+2020-07-19 12:12:01 | INFO: Starting...
+2020-07-19 12:12:06 | INFO: Loading config...
+2020-07-19 12:12:06 | INFO: Detecting server type (esx/vrp)...
+2020-07-19 12:12:06 | INFO: Detected server type: ESX
+2020-07-19 12:12:06 | INFO: Authorizing...
+2020-07-19 12:12:06 | INFO: 
+
+.______       _______  _______       _______.___________.  ______   .__   __.  __       ___      
+|   _  \     |   ____||       \     /       |           | /  __  \  |  \ |  | |  |     /   \     
+|  |_)  |    |  |__   |  .--.  |   |   (----`---|  |----`|  |  |  | |   \|  | |  |    /  ^  \    
+|      /     |   __|  |  |  |  |    \   \       |  |     |  |  |  | |  . `  | |  |   /  /_\  \   
+|  |\  \----.|  |____ |  '--'  |.----)   |      |  |     |  `--'  | |  |\   | |  |  /  _____  \  
+| _| `._____||_______||_______/ |_______/       |__|      \______/  |__| \__| |__| /__/     \__\ 
+                                                                                                 
+
+2020-07-19 12:12:06 | INFO: Authorized, welcome!
+2020-07-19 12:17:13 | WARNING: Player Leon Hernez (steam:110000106322bc0) tried to use INSERT, the user got banned
+2020-07-19 12:17:14 | INFO: Target player is not null so moving on.
+2020-07-19 12:17:14 | INFO: Target player (Player) does not have the 'dont ban me' permission, so we can continue to ban them.
+2020-07-19 12:17:14 | INFO: Ban record created.
+2020-07-19 12:17:14 | INFO: Refreshing banned players list.
+[	19-07-2020 12:17:14	] [BAN ACTION] A new ban record has been added. Player: 'Leon Hernez' was banned by '' for '🔒FZAC7 : You are banned from this server' until '01/01/5000 00:00:00'.
+2020-07-19 12:18:01 | INFO: Player is still banned for 26117339,7 hours.
+
+2020-07-19 13:25:46 | INFO: Starting...
+2020-07-19 13:25:50 | INFO: Loading config...
+2020-07-19 13:25:50 | INFO: Detecting server type (esx/vrp)...
+2020-07-19 13:25:50 | INFO: Detected server type: ESX
+2020-07-19 13:25:50 | INFO: Authorizing...
+2020-07-19 13:25:50 | INFO: 
+
+.______       _______  _______       _______.___________.  ______   .__   __.  __       ___      
+|   _  \     |   ____||       \     /       |           | /  __  \  |  \ |  | |  |     /   \     
+|  |_)  |    |  |__   |  .--.  |   |   (----`---|  |----`|  |  |  | |   \|  | |  |    /  ^  \    
+|      /     |   __|  |  |  |  |    \   \       |  |     |  |  |  | |  . `  | |  |   /  /_\  \   
+|  |\  \----.|  |____ |  '--'  |.----)   |      |  |     |  `--'  | |  |\   | |  |  /  _____  \  
+| _| `._____||_______||_______/ |_______/       |__|      \______/  |__| \__| |__| /__/     \__\ 
+                                                                                                 
+
+2020-07-19 13:25:50 | INFO: Authorized, welcome!
+2020-07-19 13:26:42 | INFO: Player is still banned for 26117338,55 hours.
+
+2020-07-19 14:15:46 | WARNING: Player Leon Hernez (steam:110000106322bc0) tried to use DEL, the user got banned
+2020-07-19 14:15:46 | INFO: Target player is not null so moving on.
+2020-07-19 14:15:46 | INFO: Target player (Player) does not have the 'dont ban me' permission, so we can continue to ban them.
+2020-07-19 14:15:46 | INFO: Ban record created.
+2020-07-19 14:15:46 | INFO: Refreshing banned players list.
+[	19-07-2020 14:15:46	] [BAN ACTION] A new ban record has been added. Player: 'Leon Hernez' was banned by '' for '🔒FZAC7 : You are banned from this server' until '01/01/5000 00:00:00'.
+2020-07-19 14:59:01 | INFO: Starting...
+2020-07-19 14:59:05 | INFO: Loading config...
+2020-07-19 14:59:05 | INFO: Detecting server type (esx/vrp)...
+2020-07-19 14:59:05 | INFO: Detected server type: ESX
+2020-07-19 14:59:05 | INFO: Authorizing...
+2020-07-19 14:59:05 | INFO: 
+
+.______       _______  _______       _______.___________.  ______   .__   __.  __       ___      
+|   _  \     |   ____||       \     /       |           | /  __  \  |  \ |  | |  |     /   \     
+|  |_)  |    |  |__   |  .--.  |   |   (----`---|  |----`|  |  |  | |   \|  | |  |    /  ^  \    
+|      /     |   __|  |  |  |  |    \   \       |  |     |  |  |  | |  . `  | |  |   /  /_\  \   
+|  |\  \----.|  |____ |  '--'  |.----)   |      |  |     |  `--'  | |  |\   | |  |  /  _____  \  
+| _| `._____||_______||_______/ |_______/       |__|      \______/  |__| \__| |__| /__/     \__\ 
+                                                                                                 
+
+2020-07-19 14:59:05 | INFO: Authorized, welcome!
+2020-07-19 15:00:59 | INFO: Starting...
+2020-07-19 15:01:03 | INFO: Loading config...
+2020-07-19 15:01:03 | INFO: Detecting server type (esx/vrp)...
+2020-07-19 15:01:03 | INFO: Detected server type: ESX
+2020-07-19 15:01:03 | INFO: Authorizing...
+2020-07-19 15:01:03 | INFO: 
+
+.______       _______  _______       _______.___________.  ______   .__   __.  __       ___      
+|   _  \     |   ____||       \     /       |           | /  __  \  |  \ |  | |  |     /   \     
+|  |_)  |    |  |__   |  .--.  |   |   (----`---|  |----`|  |  |  | |   \|  | |  |    /  ^  \    
+|      /     |   __|  |  |  |  |    \   \       |  |     |  |  |  | |  . `  | |  |   /  /_\  \   
+|  |\  \----.|  |____ |  '--'  |.----)   |      |  |     |  `--'  | |  |\   | |  |  /  _____  \  
+| _| `._____||_______||_______/ |_______/       |__|      \______/  |__| \__| |__| /__/     \__\ 
+                                                                                                 
+
+2020-07-19 15:01:03 | INFO: Authorized, welcome!
+2020-07-19 15:11:17 | INFO: Starting...
+2020-07-19 15:11:22 | INFO: Loading config...
+2020-07-19 15:11:22 | INFO: Detecting server type (esx/vrp)...
+2020-07-19 15:11:22 | INFO: Detected server type: ESX
+2020-07-19 15:11:22 | INFO: Authorizing...
+2020-07-19 15:11:22 | INFO: 
+
+.______       _______  _______       _______.___________.  ______   .__   __.  __       ___      
+|   _  \     |   ____||       \     /       |           | /  __  \  |  \ |  | |  |     /   \     
+|  |_)  |    |  |__   |  .--.  |   |   (----`---|  |----`|  |  |  | |   \|  | |  |    /  ^  \    
+|      /     |   __|  |  |  |  |    \   \       |  |     |  |  |  | |  . `  | |  |   /  /_\  \   
+|  |\  \----.|  |____ |  '--'  |.----)   |      |  |     |  `--'  | |  |\   | |  |  /  _____  \  
+| _| `._____||_______||_______/ |_______/       |__|      \______/  |__| \__| |__| /__/     \__\ 
+                                                                                                 
+
+2020-07-19 15:11:22 | INFO: Authorized, welcome!
+2020-07-19 15:48:44 | INFO: Starting...
+2020-07-19 15:48:48 | INFO: Loading config...
+2020-07-19 15:48:49 | INFO: Detecting server type (esx/vrp)...
+2020-07-19 15:48:49 | INFO: Detected server type: ESX
+2020-07-19 15:48:49 | INFO: Authorizing...
+2020-07-19 15:48:49 | INFO: 
+
+.______       _______  _______       _______.___________.  ______   .__   __.  __       ___      
+|   _  \     |   ____||       \     /       |           | /  __  \  |  \ |  | |  |     /   \     
+|  |_)  |    |  |__   |  .--.  |   |   (----`---|  |----`|  |  |  | |   \|  | |  |    /  ^  \    
+|      /     |   __|  |  |  |  |    \   \       |  |     |  |  |  | |  . `  | |  |   /  /_\  \   
+|  |\  \----.|  |____ |  '--'  |.----)   |      |  |     |  `--'  | |  |\   | |  |  /  _____  \  
+| _| `._____||_______||_______/ |_______/       |__|      \______/  |__| \__| |__| /__/     \__\ 
+                                                                                                 
+
+2020-07-19 15:48:49 | INFO: Authorized, welcome!
+2020-07-19 16:21:21 | WARNING: Player Leon Hernez (steam:ip:127.0.0.1) is trying to explode !, the user got banned
+2020-07-19 16:21:21 | WARNING: Player Leon Hernez (steam:ip:127.0.0.1) is trying to explode !, the user got banned
+2020-07-19 16:21:21 | WARNING: Player Leon Hernez (steam:ip:127.0.0.1) is trying to explode !, the user got banned
+2020-07-19 16:21:21 | WARNING: Player Leon Hernez (steam:ip:127.0.0.1) is trying to explode !, the user got banned
+2020-07-19 16:21:21 | WARNING: Player Leon Hernez (steam:ip:127.0.0.1) is trying to explode !, the user got banned
+2020-07-19 16:23:07 | WARNING: Player Leon Hernez (steam:110000106322bc0) tried to use INSERT, the user got banned
+2020-07-19 16:23:07 | INFO: Target player is not null so moving on.
+2020-07-19 16:23:07 | INFO: Target player (Player) does not have the 'dont ban me' permission, so we can continue to ban them.
+2020-07-19 16:23:07 | INFO: Ban record created.
+2020-07-19 16:23:07 | INFO: Refreshing banned players list.
+[	19-07-2020 16:23:07	] [BAN ACTION] A new ban record has been added. Player: 'Leon Hernez' was banned by '' for '🔒FZAC7 : You are banned from this server' until '01/01/5000 00:00:00'.
+2020-07-19 16:23:07 | WARNING: Player  (steam:) tried to use INSERT, the user got banned
+2020-07-19 16:23:07 | INFO: Target player is not null so moving on.
+2020-07-19 16:23:07 | INFO: Target player (Player) does not have the 'dont ban me' permission, so we can continue to ban them.
+2020-07-19 16:23:07 | INFO: Ban record created.
+2020-07-19 16:23:07 | INFO: Refreshing banned players list.
+[	19-07-2020 16:23:07	] [BAN ACTION] A new ban record has been added. Player: 'InvalidPlayerName' was banned by '' for '🔒FZAC7 : You are banned from this server' until '01/01/5000 00:00:00'.
+2020-07-19 16:23:07 | WARNING: Player  (steam:) tried to use INSERT, the user got banned
+2020-07-19 16:23:07 | INFO: Target player is not null so moving on.
+2020-07-19 16:23:07 | INFO: Target player (Player) does not have the 'dont ban me' permission, so we can continue to ban them.
+2020-07-19 16:23:07 | INFO: Ban record created.
+2020-07-19 16:23:08 | INFO: Refreshing banned players list.
+[	19-07-2020 16:23:08	] [BAN ACTION] A new ban record has been added. Player: 'InvalidPlayerName' was banned by '' for '🔒FZAC7 : You are banned from this server' until '01/01/5000 00:00:00'.
+2020-07-19 16:23:08 | WARNING: Player  (steam:) tried to use INSERT, the user got banned
+2020-07-19 16:23:08 | INFO: Target player is not null so moving on.
+2020-07-19 16:23:08 | INFO: Target player (Player) does not have the 'dont ban me' permission, so we can continue to ban them.
+2020-07-19 16:23:08 | INFO: Ban record created.
+2020-07-19 16:23:08 | INFO: Refreshing banned players list.
+[	19-07-2020 16:23:08	] [BAN ACTION] A new ban record has been added. Player: 'InvalidPlayerName' was banned by '' for '🔒FZAC7 : You are banned from this server' until '01/01/5000 00:00:00'.
+2020-07-19 16:23:08 | WARNING: Player  (steam:) tried to use INSERT, the user got banned
+2020-07-19 16:23:08 | INFO: Target player is not null so moving on.
+2020-07-19 16:23:08 | INFO: Target player (Player) does not have the 'dont ban me' permission, so we can continue to ban them.
+2020-07-19 16:23:08 | INFO: Ban record created.
+2020-07-19 16:23:08 | INFO: Refreshing banned players list.
+[	19-07-2020 16:23:08	] [BAN ACTION] A new ban record has been added. Player: 'InvalidPlayerName' was banned by '' for '🔒FZAC7 : You are banned from this server' until '01/01/5000 00:00:00'.
+2020-07-19 16:24:08 | INFO: Player is still banned for 26117335,6 hours.
+
+2020-07-19 16:27:07 | WARNING: Player Leon Hernez (steam:110000106322bc0) tried to use INSERT, the user got banned
+2020-07-19 16:27:07 | INFO: Target player is not null so moving on.
+2020-07-19 16:27:07 | INFO: Target player (Player) does not have the 'dont ban me' permission, so we can continue to ban them.
+2020-07-19 16:27:07 | INFO: Ban record created.
+2020-07-19 16:27:07 | INFO: Refreshing banned players list.
+[	19-07-2020 16:27:07	] [BAN ACTION] A new ban record has been added. Player: 'Leon Hernez' was banned by '' for '🔒FZAC7 : You are banned from this server' until '01/01/5000 00:00:00'.
+2020-07-19 16:27:07 | WARNING: Player  (steam:) tried to use INSERT, the user got banned
+2020-07-19 16:27:07 | INFO: Target player is not null so moving on.
+2020-07-19 16:27:07 | INFO: Target player (Player) does not have the 'dont ban me' permission, so we can continue to ban them.
+2020-07-19 16:27:07 | INFO: Ban record created.
+2020-07-19 16:27:08 | INFO: Refreshing banned players list.
+[	19-07-2020 16:27:08	] [BAN ACTION] A new ban record has been added. Player: 'InvalidPlayerName' was banned by '' for '🔒FZAC7 : You are banned from this server' until '01/01/5000 00:00:00'.
+2020-07-20 22:52:52 | INFO: Starting...
+2020-07-20 22:53:13 | INFO: Loading config...
+2020-07-20 22:53:14 | INFO: Detecting server type (esx/vrp)...
+2020-07-20 22:53:14 | INFO: Detected server type: ESX
+2020-07-20 22:53:14 | INFO: Authorizing...
+2020-07-20 22:53:14 | INFO: 
+
+.______       _______  _______       _______.___________.  ______   .__   __.  __       ___      
+|   _  \     |   ____||       \     /       |           | /  __  \  |  \ |  | |  |     /   \     
+|  |_)  |    |  |__   |  .--.  |   |   (----`---|  |----`|  |  |  | |   \|  | |  |    /  ^  \    
+|      /     |   __|  |  |  |  |    \   \       |  |     |  |  |  | |  . `  | |  |   /  /_\  \   
+|  |\  \----.|  |____ |  '--'  |.----)   |      |  |     |  `--'  | |  |\   | |  |  /  _____  \  
+| _| `._____||_______||_______/ |_______/       |__|      \______/  |__| \__| |__| /__/     \__\ 
+                                                                                                 
+
+2020-07-20 22:53:14 | INFO: Authorized, welcome!
+2020-07-20 22:54:30 | INFO: Starting...
+2020-07-20 22:54:34 | INFO: Loading config...
+2020-07-20 22:54:35 | INFO: Detecting server type (esx/vrp)...
+2020-07-20 22:54:35 | INFO: Detected server type: ESX
+2020-07-20 22:54:35 | INFO: Authorizing...
+2020-07-20 22:54:35 | INFO: 
+
+.______       _______  _______       _______.___________.  ______   .__   __.  __       ___      
+|   _  \     |   ____||       \     /       |           | /  __  \  |  \ |  | |  |     /   \     
+|  |_)  |    |  |__   |  .--.  |   |   (----`---|  |----`|  |  |  | |   \|  | |  |    /  ^  \    
+|      /     |   __|  |  |  |  |    \   \       |  |     |  |  |  | |  . `  | |  |   /  /_\  \   
+|  |\  \----.|  |____ |  '--'  |.----)   |      |  |     |  `--'  | |  |\   | |  |  /  _____  \  
+| _| `._____||_______||_______/ |_______/       |__|      \______/  |__| \__| |__| /__/     \__\ 
+                                                                                                 
+
+2020-07-20 22:54:35 | INFO: Authorized, welcome!
+2020-07-20 23:58:21 | INFO: Starting...
+2020-07-20 23:58:55 | INFO: Loading config...
+2020-07-20 23:58:56 | INFO: Detecting server type (esx/vrp)...
+2020-07-20 23:58:56 | INFO: Detected server type: ESX
+2020-07-20 23:58:56 | INFO: Authorizing...
+2020-07-20 23:58:56 | INFO: 
+
+.______       _______  _______       _______.___________.  ______   .__   __.  __       ___      
+|   _  \     |   ____||       \     /       |           | /  __  \  |  \ |  | |  |     /   \     
+|  |_)  |    |  |__   |  .--.  |   |   (----`---|  |----`|  |  |  | |   \|  | |  |    /  ^  \    
+|      /     |   __|  |  |  |  |    \   \       |  |     |  |  |  | |  . `  | |  |   /  /_\  \   
+|  |\  \----.|  |____ |  '--'  |.----)   |      |  |     |  `--'  | |  |\   | |  |  /  _____  \  
+| _| `._____||_______||_______/ |_______/       |__|      \______/  |__| \__| |__| /__/     \__\ 
+                                                                                                 
+
+2020-07-20 23:58:56 | INFO: Authorized, welcome!
+2020-07-21 00:00:53 | INFO: Starting...
+2020-07-21 00:00:57 | INFO: Loading config...
+2020-07-21 00:00:57 | INFO: Detecting server type (esx/vrp)...
+2020-07-21 00:00:57 | INFO: Detected server type: ESX
+2020-07-21 00:00:57 | INFO: Authorizing...
+2020-07-21 00:00:57 | INFO: 
+
+.______       _______  _______       _______.___________.  ______   .__   __.  __       ___      
+|   _  \     |   ____||       \     /       |           | /  __  \  |  \ |  | |  |     /   \     
+|  |_)  |    |  |__   |  .--.  |   |   (----`---|  |----`|  |  |  | |   \|  | |  |    /  ^  \    
+|      /     |   __|  |  |  |  |    \   \       |  |     |  |  |  | |  . `  | |  |   /  /_\  \   
+|  |\  \----.|  |____ |  '--'  |.----)   |      |  |     |  `--'  | |  |\   | |  |  /  _____  \  
+| _| `._____||_______||_______/ |_______/       |__|      \______/  |__| \__| |__| /__/     \__\ 
+                                                                                                 
+
+2020-07-21 00:00:57 | INFO: Authorized, welcome!
+2020-07-21 17:06:29 | INFO: Starting...
+2020-07-21 17:07:09 | INFO: Loading config...
+2020-07-21 17:07:10 | INFO: Detecting server type (esx/vrp)...
+2020-07-21 17:07:10 | INFO: Detected server type: ESX
+2020-07-21 17:07:10 | INFO: Authorizing...
+2020-07-21 17:07:10 | INFO: 
+
+.______       _______  _______       _______.___________.  ______   .__   __.  __       ___      
+|   _  \     |   ____||       \     /       |           | /  __  \  |  \ |  | |  |     /   \     
+|  |_)  |    |  |__   |  .--.  |   |   (----`---|  |----`|  |  |  | |   \|  | |  |    /  ^  \    
+|      /     |   __|  |  |  |  |    \   \       |  |     |  |  |  | |  . `  | |  |   /  /_\  \   
+|  |\  \----.|  |____ |  '--'  |.----)   |      |  |     |  `--'  | |  |\   | |  |  /  _____  \  
+| _| `._____||_______||_______/ |_______/       |__|      \______/  |__| \__| |__| /__/     \__\ 
+                                                                                                 
+
+2020-07-21 17:07:10 | INFO: Authorized, welcome!
+2020-07-21 17:10:21 | INFO: Starting...
+2020-07-21 17:10:25 | INFO: Loading config...
+2020-07-21 17:10:25 | INFO: Detecting server type (esx/vrp)...
+2020-07-21 17:10:25 | INFO: Detected server type: ESX
+2020-07-21 17:10:25 | INFO: Authorizing...
+2020-07-21 17:10:25 | INFO: 
+
+.______       _______  _______       _______.___________.  ______   .__   __.  __       ___      
+|   _  \     |   ____||       \     /       |           | /  __  \  |  \ |  | |  |     /   \     
+|  |_)  |    |  |__   |  .--.  |   |   (----`---|  |----`|  |  |  | |   \|  | |  |    /  ^  \    
+|      /     |   __|  |  |  |  |    \   \       |  |     |  |  |  | |  . `  | |  |   /  /_\  \   
+|  |\  \----.|  |____ |  '--'  |.----)   |      |  |     |  `--'  | |  |\   | |  |  /  _____  \  
+| _| `._____||_______||_______/ |_______/       |__|      \______/  |__| \__| |__| /__/     \__\ 
+                                                                                                 
+
+2020-07-21 17:10:25 | INFO: Authorized, welcome!
+2020-07-21 21:53:39 | WARNING: Player Leon Hernez (steam:ip:127.0.0.1) is trying to explode !, the user got banned
+2020-07-21 21:53:39 | WARNING: Player Leon Hernez (steam:ip:127.0.0.1) is trying to explode !, the user got banned
+2020-07-21 21:53:39 | WARNING: Player Leon Hernez (steam:ip:127.0.0.1) is trying to explode !, the user got banned
+2020-07-21 21:53:39 | WARNING: Player Leon Hernez (steam:ip:127.0.0.1) is trying to explode !, the user got banned
+2020-07-21 21:53:39 | WARNING: Player Leon Hernez (steam:ip:127.0.0.1) is trying to explode !, the user got banned
+2020-07-21 21:53:39 | WARNING: Player Leon Hernez (steam:ip:127.0.0.1) is trying to explode !, the user got banned
+2020-07-21 21:53:39 | WARNING: Player Leon Hernez (steam:ip:127.0.0.1) is trying to explode !, the user got banned
+2020-07-21 21:54:46 | WARNING: Player Leon Hernez (steam:ip:127.0.0.1) is trying to explode !, the user got banned
+2020-07-21 21:54:47 | WARNING: Player Leon Hernez (steam:ip:127.0.0.1) is trying to explode !, the user got banned
+2020-07-21 21:54:47 | WARNING: Player Leon Hernez (steam:ip:127.0.0.1) is trying to explode !, the user got banned
+2020-07-21 21:54:47 | WARNING: Player Leon Hernez (steam:ip:127.0.0.1) is trying to explode !, the user got banned
+2020-07-21 21:54:47 | WARNING: Player Leon Hernez (steam:ip:127.0.0.1) is trying to explode !, the user got banned
+2020-07-21 21:54:47 | WARNING: Player Leon Hernez (steam:ip:127.0.0.1) is trying to explode !, the user got banned
+2020-07-21 21:54:47 | WARNING: Player Leon Hernez (steam:ip:127.0.0.1) is trying to explode !, the user got banned
+2020-07-21 22:20:34 | WARNING: Player Leon Hernez (steam:110000106322bc0) is maybe teleporting! Caught with : 3863 units between last checked location, the user got banned
+2020-07-21 22:27:27 | WARNING: Player Leon Hernez (steam:110000106322bc0) tried to use INSERT, the user got banned
+2020-07-21 22:27:27 | INFO: Target player is not null so moving on.
+2020-07-21 22:27:27 | INFO: Target player (Player) does not have the 'dont ban me' permission, so we can continue to ban them.
+2020-07-21 22:27:27 | INFO: Ban record created.
+2020-07-21 22:27:27 | INFO: Refreshing banned players list.
+[	21-07-2020 22:27:27	] [BAN ACTION] A new ban record has been added. Player: 'Leon Hernez' was banned by '' for '🔒FZAC7 : You are banned from this server' until '01/01/5000 00:00:00'.
+2020-07-21 22:27:27 | WARNING: Player  (steam:) tried to use INSERT, the user got banned
+2020-07-21 22:27:27 | INFO: Target player is not null so moving on.
+2020-07-21 22:27:27 | INFO: Target player (Player) does not have the 'dont ban me' permission, so we can continue to ban them.
+2020-07-21 22:27:27 | INFO: Ban record created.
+2020-07-21 22:27:27 | INFO: Refreshing banned players list.
+[	21-07-2020 22:27:27	] [BAN ACTION] A new ban record has been added. Player: 'InvalidPlayerName' was banned by '' for '🔒FZAC7 : You are banned from this server' until '01/01/5000 00:00:00'.
+2020-07-21 22:27:27 | WARNING: Player  (steam:) tried to use INSERT, the user got banned
+2020-07-21 22:27:27 | INFO: Target player is not null so moving on.
+2020-07-21 22:27:27 | INFO: Target player (Player) does not have the 'dont ban me' permission, so we can continue to ban them.
+2020-07-21 22:27:27 | INFO: Ban record created.
+2020-07-21 22:27:27 | INFO: Refreshing banned players list.
+[	21-07-2020 22:27:27	] [BAN ACTION] A new ban record has been added. Player: 'InvalidPlayerName' was banned by '' for '🔒FZAC7 : You are banned from this server' until '01/01/5000 00:00:00'.
+2020-07-22 21:07:38 | INFO: Starting...
+2020-07-22 21:08:24 | INFO: Loading config...
+2020-07-22 21:08:25 | INFO: Detecting server type (esx/vrp)...
+2020-07-22 21:08:25 | INFO: Detected server type: ESX
+2020-07-22 21:08:25 | INFO: Authorizing...
+2020-07-22 21:08:25 | INFO: 
+
+.______       _______  _______       _______.___________.  ______   .__   __.  __       ___      
+|   _  \     |   ____||       \     /       |           | /  __  \  |  \ |  | |  |     /   \     
+|  |_)  |    |  |__   |  .--.  |   |   (----`---|  |----`|  |  |  | |   \|  | |  |    /  ^  \    
+|      /     |   __|  |  |  |  |    \   \       |  |     |  |  |  | |  . `  | |  |   /  /_\  \   
+|  |\  \----.|  |____ |  '--'  |.----)   |      |  |     |  `--'  | |  |\   | |  |  /  _____  \  
+| _| `._____||_______||_______/ |_______/       |__|      \______/  |__| \__| |__| /__/     \__\ 
+                                                                                                 
+
+2020-07-22 21:08:25 | INFO: Authorized, welcome!
+2020-07-22 21:09:49 | INFO: Starting...
+2020-07-22 21:09:58 | INFO: Loading config...
+2020-07-22 21:09:58 | INFO: Detecting server type (esx/vrp)...
+2020-07-22 21:09:58 | INFO: Detected server type: ESX
+2020-07-22 21:09:58 | INFO: Authorizing...
+2020-07-22 21:09:58 | INFO: 
+
+.______       _______  _______       _______.___________.  ______   .__   __.  __       ___      
+|   _  \     |   ____||       \     /       |           | /  __  \  |  \ |  | |  |     /   \     
+|  |_)  |    |  |__   |  .--.  |   |   (----`---|  |----`|  |  |  | |   \|  | |  |    /  ^  \    
+|      /     |   __|  |  |  |  |    \   \       |  |     |  |  |  | |  . `  | |  |   /  /_\  \   
+|  |\  \----.|  |____ |  '--'  |.----)   |      |  |     |  `--'  | |  |\   | |  |  /  _____  \  
+| _| `._____||_______||_______/ |_______/       |__|      \______/  |__| \__| |__| /__/     \__\ 
+                                                                                                 
+
+2020-07-22 21:09:58 | INFO: Authorized, welcome!
+2020-07-22 21:20:12 | WARNING: Player Leon Hernez (steam:110000106322bc0) tried to spawn a blacklisted vehicle, the user got banned
+2020-07-22 21:20:12 | INFO: Target player is not null so moving on.
+2020-07-22 21:20:12 | INFO: Target player (Player) does not have the 'dont ban me' permission, so we can continue to ban them.
+2020-07-22 21:20:12 | INFO: Ban record created.
+2020-07-22 21:20:12 | INFO: Refreshing banned players list.
+[	22-07-2020 21:20:12	] [BAN ACTION] A new ban record has been added. Player: 'Leon Hernez' was banned by '' for '🔒FZAC7 : You are banned from this server' until '01/01/5000 00:00:00'.
+2020-07-23 12:07:02 | INFO: Starting...
+2020-07-23 12:07:44 | INFO: Loading config...
+2020-07-23 12:07:44 | INFO: Detecting server type (esx/vrp)...
+2020-07-23 12:07:44 | INFO: Detected server type: ESX
+2020-07-23 12:07:44 | INFO: Authorizing...
+2020-07-23 12:07:44 | INFO: 
+
+.______       _______  _______       _______.___________.  ______   .__   __.  __       ___      
+|   _  \     |   ____||       \     /       |           | /  __  \  |  \ |  | |  |     /   \     
+|  |_)  |    |  |__   |  .--.  |   |   (----`---|  |----`|  |  |  | |   \|  | |  |    /  ^  \    
+|      /     |   __|  |  |  |  |    \   \       |  |     |  |  |  | |  . `  | |  |   /  /_\  \   
+|  |\  \----.|  |____ |  '--'  |.----)   |      |  |     |  `--'  | |  |\   | |  |  /  _____  \  
+| _| `._____||_______||_______/ |_______/       |__|      \______/  |__| \__| |__| /__/     \__\ 
+                                                                                                 
+
+2020-07-23 12:07:44 | INFO: Authorized, welcome!
+2020-07-23 12:13:41 | INFO: Player is still banned for 26117243,77 hours.
+
+2020-07-23 13:47:48 | INFO: Starting...
+2020-07-23 13:48:17 | INFO: Loading config...
+2020-07-23 13:48:18 | INFO: Detecting server type (esx/vrp)...
+2020-07-23 13:48:18 | INFO: Detected server type: ESX
+2020-07-23 13:48:18 | INFO: Authorizing...
+2020-07-23 13:48:18 | INFO: 
+
+.______       _______  _______       _______.___________.  ______   .__   __.  __       ___      
+|   _  \     |   ____||       \     /       |           | /  __  \  |  \ |  | |  |     /   \     
+|  |_)  |    |  |__   |  .--.  |   |   (----`---|  |----`|  |  |  | |   \|  | |  |    /  ^  \    
+|      /     |   __|  |  |  |  |    \   \       |  |     |  |  |  | |  . `  | |  |   /  /_\  \   
+|  |\  \----.|  |____ |  '--'  |.----)   |      |  |     |  `--'  | |  |\   | |  |  /  _____  \  
+| _| `._____||_______||_______/ |_______/       |__|      \______/  |__| \__| |__| /__/     \__\ 
+                                                                                                 
+
+2020-07-23 13:48:18 | INFO: Authorized, welcome!
+2020-07-23 18:11:30 | INFO: Starting...
+2020-07-23 18:12:10 | INFO: Loading config...
+2020-07-23 18:12:10 | INFO: Detecting server type (esx/vrp)...
+2020-07-23 18:12:10 | INFO: Detected server type: ESX
+2020-07-23 18:12:10 | INFO: Authorizing...
+2020-07-23 18:12:10 | INFO: 
+
+.______       _______  _______       _______.___________.  ______   .__   __.  __       ___      
+|   _  \     |   ____||       \     /       |           | /  __  \  |  \ |  | |  |     /   \     
+|  |_)  |    |  |__   |  .--.  |   |   (----`---|  |----`|  |  |  | |   \|  | |  |    /  ^  \    
+|      /     |   __|  |  |  |  |    \   \       |  |     |  |  |  | |  . `  | |  |   /  /_\  \   
+|  |\  \----.|  |____ |  '--'  |.----)   |      |  |     |  `--'  | |  |\   | |  |  /  _____  \  
+| _| `._____||_______||_______/ |_______/       |__|      \______/  |__| \__| |__| /__/     \__\ 
+                                                                                                 
+
+2020-07-23 18:12:10 | INFO: Authorized, welcome!
+2020-07-23 18:13:02 | INFO: Player is still banned for 26117237,78 hours.
+
+2020-07-27 17:02:03 | INFO: Starting...
+2020-07-27 17:02:30 | INFO: Loading config...
+2020-07-27 17:02:30 | INFO: Detecting server type (esx/vrp)...
+2020-07-27 17:02:30 | INFO: Detected server type: ESX
+2020-07-27 17:02:30 | INFO: Authorizing...
+2020-07-27 17:02:30 | INFO: 
+
+.______       _______  _______       _______.___________.  ______   .__   __.  __       ___      
+|   _  \     |   ____||       \     /       |           | /  __  \  |  \ |  | |  |     /   \     
+|  |_)  |    |  |__   |  .--.  |   |   (----`---|  |----`|  |  |  | |   \|  | |  |    /  ^  \    
+|      /     |   __|  |  |  |  |    \   \       |  |     |  |  |  | |  . `  | |  |   /  /_\  \   
+|  |\  \----.|  |____ |  '--'  |.----)   |      |  |     |  `--'  | |  |\   | |  |  /  _____  \  
+| _| `._____||_______||_______/ |_______/       |__|      \______/  |__| \__| |__| /__/     \__\ 
+                                                                                                 
+
+2020-07-27 17:02:30 | INFO: Authorized, welcome!
+2020-07-27 17:02:32 | INFO: Player is still banned for 26117142,96 hours.
+
+2020-07-27 17:03:02 | INFO: Starting...
+2020-07-27 17:03:26 | INFO: Loading config...
+2020-07-27 17:03:26 | INFO: Detecting server type (esx/vrp)...
+2020-07-27 17:03:26 | INFO: Detected server type: ESX
+2020-07-27 17:03:27 | INFO: Authorizing...
+2020-07-27 17:03:27 | INFO: 
+
+.______       _______  _______       _______.___________.  ______   .__   __.  __       ___      
+|   _  \     |   ____||       \     /       |           | /  __  \  |  \ |  | |  |     /   \     
+|  |_)  |    |  |__   |  .--.  |   |   (----`---|  |----`|  |  |  | |   \|  | |  |    /  ^  \    
+|      /     |   __|  |  |  |  |    \   \       |  |     |  |  |  | |  . `  | |  |   /  /_\  \   
+|  |\  \----.|  |____ |  '--'  |.----)   |      |  |     |  `--'  | |  |\   | |  |  /  _____  \  
+| _| `._____||_______||_______/ |_______/       |__|      \______/  |__| \__| |__| /__/     \__\ 
+                                                                                                 
+
+2020-07-27 17:03:27 | INFO: Authorized, welcome!
+2020-07-27 17:03:28 | INFO: Player is still banned for 26117142,94 hours.
+
+2020-07-27 17:03:40 | INFO: Player is still banned for 26117142,94 hours.
+
+2020-07-27 17:04:05 | INFO: Starting...
+2020-07-27 17:04:09 | INFO: Loading config...
+2020-07-27 17:04:10 | INFO: Detecting server type (esx/vrp)...
+2020-07-27 17:04:10 | INFO: Detected server type: ESX
+2020-07-27 17:04:10 | INFO: Authorizing...
+2020-07-27 17:04:10 | INFO: 
+
+.______       _______  _______       _______.___________.  ______   .__   __.  __       ___      
+|   _  \     |   ____||       \     /       |           | /  __  \  |  \ |  | |  |     /   \     
+|  |_)  |    |  |__   |  .--.  |   |   (----`---|  |----`|  |  |  | |   \|  | |  |    /  ^  \    
+|      /     |   __|  |  |  |  |    \   \       |  |     |  |  |  | |  . `  | |  |   /  /_\  \   
+|  |\  \----.|  |____ |  '--'  |.----)   |      |  |     |  `--'  | |  |\   | |  |  /  _____  \  
+| _| `._____||_______||_______/ |_______/       |__|      \______/  |__| \__| |__| /__/     \__\ 
+                                                                                                 
+
+2020-07-27 17:04:10 | INFO: Authorized, welcome!
