@@ -1,0 +1,1 @@
+At this time i don't clean really the code. I'll do later, i'll maybe some part of the code. Don't worry
