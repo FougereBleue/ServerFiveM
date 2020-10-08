@@ -263,6 +263,8 @@ Citizen.CreateThread(function()
 		local letSleep, isInMarker, hasExited = true, false, false
 		local currentHospital, currentPart, currentPartNum
 
+
+		--# TODO IF JOB AMBULANCE AFFICHER ELSE RIEN AFFICHER #--
 		for hospitalNum,hospital in pairs(Config.Hospitals) do
 
 			-- Ambulance Actions
